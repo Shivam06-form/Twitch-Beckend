@@ -19,7 +19,7 @@ App.use(router.get('/api/Twitch', (req, res, next) => {
     res.status(200).json(FollowChannel)
 }))
 
-const port = 8000;
+const port = process.env.PORT  || 8000;
 App.listen(port, () => {
     console.log(`App runnning on port ${port}`);
 });
