@@ -1,0 +1,310 @@
+{
+    "FOLLOW_CHANNELS": [
+        {
+            "id": 1,
+            "ChannelName": "Shroud",
+            "Game": "PUBG: BATTLEGROUNDS",
+            "status": "Online",
+            "img": "https://dotesports.com/wp-content/uploads/2020/06/17013837/who-is-shroud-everything-to-know-about-cloud9-csgo-pro-twitchs-human-aimbot.jpg"
+        },
+        {
+            "id": 2,
+            "ChannelName": "Rachit",
+            "Game": "PUBG: BATTLEGROUNDS",
+            "status": "Online",
+            "img": "https://i.ytimg.com/vi/l-VaSAFxXUo/hqdefault_live.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLChWFBOLTvAj7xFK4Vi3BWoSUEd9A"
+        },
+        {
+            "id": 3,
+            "ChannelName": "Summit1g",
+            "Game": "Escape from Tarkov",
+            "status": "Online",
+            "img": "https://i.ytimg.com/vi/vy4eY3F3MZM/maxresdefault.jpg"
+        },
+        {
+            "id": 4,
+            "ChannelName": "Ninja",
+            "Game": "Fortnite",
+            "status": "Online",
+            "img": "https://a.espncdn.com/photo/2018/0917/r432464_1600x800cc.jpg"
+        },
+        {
+            "id": 5,
+            "ChannelName": "creativeboys03",
+            "Game": "GTA 5",
+            "status": "Offline",
+            "img": "https://e0.pxfuel.com/wallpapers/784/631/desktop-wallpaper-ninja-gaming-logo-novocom-top-ninja-gamer.jpg"
+        }
+    ],
+    "RECOMMENDEDCHANNELS": [
+        {
+            "id": 1,
+            "ChannelName": "Shroud",
+            "Game": "PUBG: BATTLEGROUNDS",
+            "status": "Online",
+            "img": "https://dotesports.com/wp-content/uploads/2020/06/17013837/who-is-shroud-everything-to-know-about-cloud9-csgo-pro-twitchs-human-aimbot.jpg"
+        },
+        {
+            "id": 2,
+            "ChannelName": "Rachit",
+            "Game": "PUBG: BATTLEGROUNDS",
+            "status": "Online",
+            "img": "https://i.ytimg.com/vi/l-VaSAFxXUo/hqdefault_live.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLChWFBOLTvAj7xFK4Vi3BWoSUEd9A"
+        },
+        {
+            "id": 3,
+            "ChannelName": "Summit1g",
+            "Game": "Escape from Tarkov",
+            "status": "Online",
+            "img": "https://i.ytimg.com/vi/vy4eY3F3MZM/maxresdefault.jpg"
+        },
+        {
+            "id": 4,
+            "ChannelName": "Ninja",
+            "Game": "Fortnite",
+            "status": "Online",
+            "img": "https://a.espncdn.com/photo/2018/0917/r432464_1600x800cc.jpg"
+        },
+        {
+            "id": 5,
+            "ChannelName": "creativeboys03",
+            "Game": "GTA 5",
+            "status": "Offline",
+            "img": "https://e0.pxfuel.com/wallpapers/784/631/desktop-wallpaper-ninja-gaming-logo-novocom-top-ninja-gamer.jpg"
+        }
+    ],
+
+
+
+    "LIVE": [
+        {
+            "id": 1,
+            "ChannelName": "Shroud",
+            "Game": "PUBG: BATTLEGROUNDS",
+            "status": "Online",
+            "img": "https://wstatic-prod.pubg.com/web/live/static/og/img-og-pubg.jpg",
+            "steamerImg": "https://dotesports.com/wp-content/uploads/2020/06/17013837/who-is-shroud-everything-to-know-about-cloud9-csgo-pro-twitchs-human-aimbot.jpg",
+            "tags": [
+                "twitch",
+                "shroud",
+                "bATTLE"
+            ]
+        },
+        {
+            "id": 2,
+            "ChannelName": "Dr DisRespect",
+            "Game": "PUBG: BATTLEGROUNDS",
+            "status": "Online",
+            "img": "https://assets.xboxservices.com/assets/e3/83/e383f3be-1d40-4974-ab01-3b5d5bbe75e2.jpg?n=SoT_Sneaky-Slider-1084_Season-10_1600x675_03.jpg",
+            "steamerImg": "https://staticg.sportskeeda.com/editor/2022/06/aa2f3-16560897867508-1920.jpg?w=840",
+            "tags": [
+                "twitch",
+                "shroud",
+                "bATTLE"
+            ]
+        },
+        {
+            "id": 3,
+            "ChannelName": "Shroud",
+            "Game": "PUBG: BATTLEGROUNDS",
+            "status": "Online",
+            "img": "https://wstatic-prod.pubg.com/web/live/static/og/img-og-pubg.jpg",
+            "steamerImg": "https://dotesports.com/wp-content/uploads/2020/06/17013837/who-is-shroud-everything-to-know-about-cloud9-csgo-pro-twitchs-human-aimbot.jpg",
+            "tags": [
+                "twitch",
+                "shroud",
+                "bATTLE"
+            ]
+        },
+        {
+            "id": 4,
+            "ChannelName": "Shroud",
+            "Game": "PUBG: BATTLEGROUNDS",
+            "status": "Online",
+            "img": "https://wstatic-prod.pubg.com/web/live/static/og/img-og-pubg.jpg",
+            "steamerImg": "https://dotesports.com/wp-content/uploads/2020/06/17013837/who-is-shroud-everything-to-know-about-cloud9-csgo-pro-twitchs-human-aimbot.jpg",
+            "tags": [
+                "twitch",
+                "shroud",
+                "bATTLE"
+            ]
+        },
+        {
+            "id": 5,
+            "ChannelName": "Ninja",
+            "Game": "PUBG: BATTLEGROUNDS",
+            "status": "Online",
+            "img": "https://assets.xboxservices.com/assets/20/38/203850f5-1bed-4912-b25f-193ee890c97f.jpg?n=Fortnite_GLP-Page-Hero-1084_876951_1920x1080.jpg",
+            "steamerImg": "https://a.espncdn.com/photo/2018/0917/r432464_1600x800cc.jpg",
+            "tags": [
+                "twitch",
+                "shroud",
+                "bATTLE"
+            ]
+        },
+        {
+            "id": 6,
+            "ChannelName": "xQc",
+            "Game": "call of duty warzone",
+            "status": "Online",
+            "img": "https://wallpapers.com/images/featured/call-of-duty-warzone-4k-kzetz7h7t75073ye.jpg",
+            "steamerImg": "https://nationaltoday.com/wp-content/uploads/2022/09/4568568-min-1200x834.jpg",
+            "tags": [
+                "twitch",
+                "shroud",
+                "bATTLE"
+            ]
+        }
+    ],
+    "CATOGERIES": [
+        {
+            "id": 1,
+            "Title": "PUBG: BATTLEGROUNDS",
+            "img": "https://static-cdn.jtvnw.net/ttv-boxart/493057-188x250.jpg",
+            "tags": [
+                "FPS",
+                "Shooter"
+            ]
+        },
+        {
+            "id": 2,
+            "Title": "Just Chatting",
+            "img": "https://static-cdn.jtvnw.net/ttv-boxart/509658-188x250.jpg",
+            "tags": [
+                "IRL"
+            ]
+        },
+        {
+            "id": 3,
+            "Title": "Dota 2",
+            "img": "https://static-cdn.jtvnw.net/ttv-boxart/29595-188x250.jpg",
+            "tags": [
+                "IRL"
+            ]
+        },
+        {
+            "id": 4,
+            "Title": "Counter-Strike",
+            "img": "https://static-cdn.jtvnw.net/ttv-boxart/32399-144x192.jpg",
+            "tags": [
+                "FPS",
+                "Shooter"
+            ]
+        },
+        {
+            "id": 5,
+            "Title": "Grand Theft Auto V",
+            "img": "https://static-cdn.jtvnw.net/ttv-boxart/32982_IGDB-188x250.jpg",
+            "tags": [
+                "FPS",
+                "Shooter"
+            ]
+        },
+        {
+            "id": 6,
+            "Title": "League of Legends",
+            "img": "https://static-cdn.jtvnw.net/ttv-boxart/21779-144x192.jpg",
+            "tags": [
+                "RPG",
+                "Strategy"
+            ]
+        }
+    ],
+    "LIVESTREAMS": [
+        {
+            "id": 1,
+            "link": "https://www.youtube.com/embed/GpaTE6Kg9Ow",
+            "steamImg": "https://yt3.ggpht.com/ytc/AIf8zZTP0Ygo6aFdBc5GjOwPxAeOF5pvojOjHsFoPLpUzA=s88-c-k-c0x00ffffff-no-rj",
+            "Channel_Name": "Weiss Network TV",
+            "Title": "24/7 RESIDENT EVIL Walkthrough Marathon Stream"
+        },
+        {
+            "id": 2,
+            "link": "https://www.youtube.com/embed/MN8p-Vrn6G0",
+            "steamImg": "https://yt3.ggpht.com/5mfR9OYKJ2SjYfWR5wbixV_UntNnIhUtINFvvxxgx1cMnY9vGQm22nLvvgNBwrmeqjmqxIUhjA=s88-c-k-c0x00ffffff-no-rj",
+            "Channel_Name": "NDTV",
+            "Title": "PUBG: BATTLEGROUNDS"
+        },
+        {
+            "id": 3,
+            "link": "https://www.youtube.com/embed/P1n00YlAOTs",
+            "steamImg": "https://yt3.ggpht.com/5mfR9OYKJ2SjYfWR5wbixV_UntNnIhUtINFvvxxgx1cMnY9vGQm22nLvvgNBwrmeqjmqxIUhjA=s88-c-k-c0x00ffffff-no-rj",
+            "Channel_Name": "CNN",
+            "Title": "Counter-Strike-2"
+        },
+        {
+            "id": 4,
+            "link": "https://www.youtube.com/embed/w9uJg68CV4g",
+            "steamImg": "https://yt3.ggpht.com/5mfR9OYKJ2SjYfWR5wbixV_UntNnIhUtINFvvxxgx1cMnY9vGQm22nLvvgNBwrmeqjmqxIUhjA=s88-c-k-c0x00ffffff-no-rj",
+            "Channel_Name": "BBC",
+            "Title": "PUBG: BATTLEGROUNDS"
+        }
+    ],
+    "FEATURES": [
+        {
+            "id": 1,
+            "ChannelName": "Soulking",
+            "Game": "PUBG: BATTLEGROUNDS",
+            "GoToLink": "https://www.youtube.com/embed/igi_jK6msUE?list=PLCn-NPfURtoeuQqjQOyPOOqxOMR6gUsw5",
+            "img": "https://wallpapers.com/images/hd/pubg-pictures-o3eqzdeil2265vdj.jpg",
+            "steamerImg": "https://yt3.googleusercontent.com/ytc/AIf8zZSyPivw6QV1ohEtEKrZggEQ5gCiYs9X6sG8JNIaVw=s176-c-k-c0x00ffffff-no-rj",
+            "tags": [
+                "twitch",
+                "soulking",
+                "bATTLE"
+            ]
+        },
+        {
+            "id": 2,
+            "ChannelName": "Soulking",
+            "Game": "PUBG: BATTLEGROUNDS",
+            "GoToLink": "https://www.youtube.com/embed/igi_jK6msUE?list=PLCn-NPfURtoeuQqjQOyPOOqxOMR6gUsw5",
+            "img": "https://wallpapers.com/images/hd/pubg-pictures-o3eqzdeil2265vdj.jpg",
+            "steamerImg": "https://yt3.googleusercontent.com/ytc/AIf8zZSyPivw6QV1ohEtEKrZggEQ5gCiYs9X6sG8JNIaVw=s176-c-k-c0x00ffffff-no-rj",
+            "tags": [
+                "twitch",
+                "soulking",
+                "bATTLE"
+            ]
+        },
+        {
+            "id": 3,
+            "ChannelName": "Soulking",
+            "Game": "CLSH OF CLANS",
+            "GoToLink": "https://youtu.be/x1d9L4Q1pS8?si=-Ys8_tuBUZYfp2mD",
+            "img": "https://images2.alphacoders.com/118/1186622.jpg",
+            "steamerImg": "https://yt3.googleusercontent.com/ytc/AIf8zZSyPivw6QV1ohEtEKrZggEQ5gCiYs9X6sG8JNIaVw=s176-c-k-c0x00ffffff-no-rj",
+            "tags": [
+                "twitch",
+                "soulking",
+                "bATTLE"
+            ]
+        },
+        {
+            "id": 4,
+            "ChannelName": "Soulking",
+            "Game": "15kg Dumble Press",
+            "GoToLink": "https://youtu.be/FDCmGkasTsk?si=FmtjsBhl16VhAmyY",
+            "img": "https://e0.pxfuel.com/wallpapers/825/260/desktop-wallpaper-gym-google-search.jpg",
+            "steamerImg": "https://yt3.googleusercontent.com/ytc/AIf8zZSyPivw6QV1ohEtEKrZggEQ5gCiYs9X6sG8JNIaVw=s176-c-k-c0x00ffffff-no-rj",
+            "tags": [
+                "twitch",
+                "soulking",
+                "bATTLE"
+            ]
+        },
+        {
+            "id": 5,
+            "ChannelName": "MasterX",
+            "Game": "Jugg (fortnite montage) #1 #jugg #fortnitemontage",
+            "GoToLink": "https://youtu.be/18GwVTcz6fo?si=F2alCpVSUVYEbLQD",
+            "img": "https://wallpapers.com/images/hd/blue-fortnite-desktop-hd-j1oac9i1pg3a0l7d.jpg",
+            "steamerImg": "https://yt3.ggpht.com/p-hLK-Zjw76mf36RZaZB4L7H2GsyEW5H3PqX88uSIQype8OMHw2RYB1U38Y80unrYMWFz5iY0vM=s88-c-k-c0x00ffffff-no-rj",
+            "tags": [
+                "twitch",
+                "soulking",
+                "bATTLE"
+            ]
+        }
+    ]
+}
